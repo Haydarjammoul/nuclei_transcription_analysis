@@ -1,4 +1,4 @@
-### Hello Louisa, these are chunks of my code, I will try to document and make fct names as clear as possible
+### these are chunks of my code, I will try to document and make fct names as clear as possible
 
 # Nuclei and Transcription Analysis Toolkit
 
